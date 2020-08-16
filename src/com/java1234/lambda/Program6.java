@@ -7,6 +7,7 @@ import java.util.List;
  * @author java1234_小锋
  * @site www.java1234.com
  * @company Java知识分享网
+ * lamda综合实例运用,一般集合比较多
  * @create 2020-08-15 14:50
  */
 public class Program6 {

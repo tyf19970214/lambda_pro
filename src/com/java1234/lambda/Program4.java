@@ -3,6 +3,7 @@ package com.java1234.lambda;
 /**
  * @author java1234_小锋
  * @site www.java1234.com
+ * lamda公共方法封装
  * @company Java知识分享网
  * @create 2020-08-15 14:50
  */
